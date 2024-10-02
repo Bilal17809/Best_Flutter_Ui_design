@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "25939813746",
+    "firebase_url": "https://ezitech-c2c75-default-rtdb.firebaseio.com",
+    "project_id": "ezitech-c2c75",
+    "storage_bucket": "ezitech-c2c75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25939813746:android:bbda8d96c361ae7ea2a9eb",
+        "android_client_info": {
+          "package_name": "com.example.best_ui_design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25939813746-3phhu8ssskc1s9crg1o7qlitg26hc4d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt_9Nx3EgaJSKoSxuAKwiEtlzdZQtTGfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25939813746-3phhu8ssskc1s9crg1o7qlitg26hc4d8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25939813746-ttvurvppr5f815v9blsmhblksjbgqvps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ezitech"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25939813746:android:e0250b2f0fae4d14a2a9eb",
+        "android_client_info": {
+          "package_name": "com.example.ezitech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25939813746-iqe78gjupmdkb7dbdgrauh0piljqj3v6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ezitech",
+            "certificate_hash": "af50fdcea34074b91ba20ead858d43068ed7a1f9"
+          }
+        },
+        {
+          "client_id": "25939813746-3phhu8ssskc1s9crg1o7qlitg26hc4d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt_9Nx3EgaJSKoSxuAKwiEtlzdZQtTGfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25939813746-3phhu8ssskc1s9crg1o7qlitg26hc4d8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25939813746-ttvurvppr5f815v9blsmhblksjbgqvps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ezitech"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25939813746:android:a26526cc7e9c8654a2a9eb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ui_design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25939813746-3phhu8ssskc1s9crg1o7qlitg26hc4d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt_9Nx3EgaJSKoSxuAKwiEtlzdZQtTGfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25939813746-3phhu8ssskc1s9crg1o7qlitg26hc4d8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25939813746-ttvurvppr5f815v9blsmhblksjbgqvps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ezitech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
